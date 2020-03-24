@@ -22,7 +22,7 @@ html,body{
 
 .wrap1,.wrap3{
     flex:0 0 10%;
-    background-color: blueviolet;
+    background-color: cadetblue;
 }
 
 .wrap2{
