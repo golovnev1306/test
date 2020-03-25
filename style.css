@@ -28,4 +28,5 @@ html,body{
 .wrap2{
     flex:1 1 auto;
     background-color: beige;
+    font-size: 20px;
 }
